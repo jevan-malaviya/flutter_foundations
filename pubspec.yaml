@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  provider: ^5.0.0
+  flutter_riverpod: ^1.0.4
 
 dev_dependencies:
 
